@@ -1,0 +1,1 @@
+npm i mongoose dotenv express helmet morgan cors express-rate-limit express-mongo-sanitize xss-clean hpp validator bcrypt
